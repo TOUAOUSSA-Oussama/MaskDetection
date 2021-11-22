@@ -15,4 +15,4 @@ To run the project:
 
 
 Example :
------------------------------------
+<img src="https://github.com/TOUAOUSSA-Oussama/MaskDetection/blob/main/example.PNG" width="500">
