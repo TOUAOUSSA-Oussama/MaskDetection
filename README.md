@@ -7,8 +7,7 @@ The prediction is made using the MobileNet tensorflow model. Detection of faces 
 
 The results of training the MobileNet model are shown in the following figure:
 
-![alt text](https://github.com/TOUAOUSSA-Oussama/MaskDetection/blob/main/plot.png {width=40px height=400px})
-
+<img src="https://github.com/TOUAOUSSA-Oussama/MaskDetection/blob/main/plot.png" width="500">
 To run the project:
 - Install the dependencies: pip install -r requirements.txt
 - If you want to re-train the model: python train_mask_detector.py
