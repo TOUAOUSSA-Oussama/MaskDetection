@@ -14,5 +14,5 @@ To run the project:
 - If you want to run the application: python detect_mask_video.py
 
 
-Example :
+Example :<br>
 <img src="https://github.com/TOUAOUSSA-Oussama/MaskDetection/blob/main/example.PNG" width="500">
